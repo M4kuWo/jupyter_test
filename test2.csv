@@ -1,0 +1,6 @@
+SaleID,Product,Quantity,Price,Date
+101,Laptop,3,1000,2024-11-01
+102,Smartphone,5,500,2024-11-02
+103,Tablet,2,300,2024-11-03
+104,Headphones,10,50,2024-11-04
+105,Monitor,4,200,2024-11-05
